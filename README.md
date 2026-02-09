@@ -1,2 +1,2 @@
 # git_practice
-first
+this is my first git
